@@ -3,7 +3,7 @@ title: "Is Facebook the next Amazon of Retail and Logistics?"
 layout: post
 date: 2018-06-13 22:48
 permalink: can-facebook-dethrone-amazon
-image: /assets/images/markdown.jpg
+image: "http://i1.sndcdn.com/avatars-000457590984-xbxok8-original.jpg"
 headerImage: false
 tag:
 - supplychain
@@ -14,14 +14,12 @@ category: blog
 
 ---
 
-Today I’m in conversation with Brittain Ladd, VP Supply Chain Mgmt and Logistics Consulting at Six-Pager Consulting!
-
+Today I’m in conversation with Brittain Ladd, an expert consultant on strategy and supply chain. He is a former Amazon executive where he led the Worldwide Expansion of AmazonFresh, Pantry and Groceries. Brittain also served as an internal consultant to multiple business lines within Amazon. Brittain holds the distinction of being one of the first individuals to recommend that Amazon acquire Whole Foods. He has lived and worked in India, China, Saudi Arabia, Africa, Europe, SE Asia, Brazil and Russia. 
 
 ![brian](/assets/images/brian.jpg)
 
 Brittain Ladd
 
-Brittain Ladd is a former Amazon executive where he lead the Worldwide Expansion of AmazonFresh, Pantry and Groceries. Brittain also served as an internal consultant to multiple business lines within Amazon. Brittain holds the distinction of being one of the first individuals to recommend that Amazon acquire Whole Foods. He has lived and worked in India, China, Saudi Arabia, Africa, Europe, SE Asia, Brazil and Russia. 
 
  
 
