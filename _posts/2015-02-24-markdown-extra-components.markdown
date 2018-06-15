@@ -3,7 +3,7 @@ title: "Is Facebook the next Amazon of Retail and Logistics?"
 layout: post
 date: 2018-06-13 22:48
 permalink: can-facebook-dethrone-amazon
-image: /assets/images/markdown.jpg
+image: "http://i1.sndcdn.com/avatars-000457590984-xbxok8-original.jpg"
 headerImage: false
 tag:
 - supplychain
@@ -14,14 +14,27 @@ category: blog
 
 ---
 
-Today I’m in conversation with Brittain Ladd, VP Supply Chain Mgmt and Logistics Consulting at Six-Pager Consulting!
 
+
+
+I had a talk with Brittain Ladd, a strategy and supply chain consultant, about who the strongest contender is to supersede and replace Amazon! To my surprise, Brittain's answer wasn't Alibaba or Walmart. It was Facebook!
+
+Listen on to understand what it will take Facebook, in his view, to build a one-of-its-kind supply chain network enhanced with some thoughtful acquisitions to claim the top spot in retail.
+
+Here is our conversation!
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/457784679&color=%235ba28e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+
+**About Brian**
+
+Brittain holds the distinction of being one of the first individuals to recommend that Amazon acquire Whole Foods. He has lived and worked in India, China, Saudi Arabia, Africa, Europe, SE Asia, Brazil and Russia. 
 
 ![brian](/assets/images/brian.jpg)
 
 Brittain Ladd
 
-Brittain Ladd is a former Amazon executive where he lead the Worldwide Expansion of AmazonFresh, Pantry and Groceries. Brittain also served as an internal consultant to multiple business lines within Amazon. Brittain holds the distinction of being one of the first individuals to recommend that Amazon acquire Whole Foods. He has lived and worked in India, China, Saudi Arabia, Africa, Europe, SE Asia, Brazil and Russia. 
 
  
 
@@ -32,6 +45,4 @@ Brittain is a globally recognized thought leader in supply chain management and 
 Brittain holds a Bachelor of Arts in Business & Political Science from Drake University; a Master of Business Administration as part of a dual program between Baker College and The Pennsylvania State University; a Master of Supply Chain Management from The Pennsylvania State University; a Master of Science in Merchandising from North Dakota State University; and certifications in the Toyota Production System (TPS) and as a Six Sigma Master Black Belt.
 
 
-Here is our conversation!
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/457784679&color=%235ba28e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
