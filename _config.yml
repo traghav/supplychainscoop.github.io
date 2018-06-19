@@ -8,8 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: http://i1.sndcdn.com/avatars-000458458392-w8uyyv-original.jpg
-
+picture: http://i1.sndcdn.com/avatars-000458477058-mgb48c-original.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 
@@ -33,7 +32,7 @@ twitter: priyankaasera
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: priyankaasera
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub

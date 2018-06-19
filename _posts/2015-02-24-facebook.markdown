@@ -1,9 +1,10 @@
 ---
 title: "Is Facebook the next Amazon of Retail and Logistics?"
 layout: post
-date: 2018-06-13 22:48
+date: 2018-06-19
 permalink: can-facebook-dethrone-amazon
 image: "http://i1.sndcdn.com/avatars-000457590984-xbxok8-original.jpg"
+description: sfd
 headerImage: false
 tag:
 - supplychain
@@ -33,7 +34,7 @@ Brittain holds the distinction of being one of the first individuals to recommen
 
 ![brian](/assets/images/brian.jpg)
 
-Brittain Ladd
+<div style="figcaption"> Brittain Ladd </div>
 
 
  
