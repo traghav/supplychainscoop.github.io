@@ -1,5 +1,5 @@
 ---
-title: "Is Facebook the next Amazon of Retail and Logistics?"
+title: "Episode 1: Is Facebook the next Amazon of Retail and Logistics?"
 layout: post
 date: 2018-06-19
 permalink: can-facebook-dethrone-amazon
