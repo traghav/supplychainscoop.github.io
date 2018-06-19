@@ -24,8 +24,10 @@ permalink: episodes
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}
+
 					
 				{% endif %}
+				
 			{% endif %}
 		{% endfor %}
 	{% endif %}

@@ -4,7 +4,7 @@ layout: post
 date: 2018-06-19
 permalink: can-facebook-dethrone-amazon
 image: "http://i1.sndcdn.com/avatars-000457590984-xbxok8-original.jpg"
-description: sfd
+description: Priyanka talks to Brittain Ladd, a strategy and supply chain consultant, about who the strongest contender is to supersede and replace Amazon, To Priyanka's surprise, Brittain's answer wasn't Alibaba or Walmart. It was Facebook! <br> <br> Listen on to know more.
 headerImage: false
 tag:
 - supplychain
