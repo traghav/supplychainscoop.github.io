@@ -44,7 +44,7 @@ For more on this, listen on.
 
 Dr. Tompkins 40-plus years as CEO of Tompkins and his focus on helping companies achieve profitable growth, gives him an insider’s view into what makes great companies even better.
 
-<img src= "/assets/images/jimtompkins.jpg" alt="lori" width="325px">
+<img src= "/assets/images/jimtompkins.jpg" alt="jim" width="325px">
 
 
 
