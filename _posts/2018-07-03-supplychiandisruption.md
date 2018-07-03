@@ -19,7 +19,7 @@ category: blog
 
 #### Priyanka talks to Jim Tompkins, Founder of Tompkins Intl Consulting. They cover topics – such as how can companies respond to the Amazon threat, what are the biggest drivers disrupting supply chains today, what are some of the things supply chain execs should have an eye on and how do we bridge the talent gap in the industry.
 
-#### Questions Tom answered:
+#### Questions Jim answered:
 
  
 
@@ -40,7 +40,7 @@ For more on this, listen on.
 
 
 
-#### About Tom
+#### About Jim
 
 Dr. Tompkins 40-plus years as CEO of Tompkins and his focus on helping companies achieve profitable growth, gives him an insider’s view into what makes great companies even better.
 
