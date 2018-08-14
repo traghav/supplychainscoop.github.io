@@ -16,6 +16,7 @@ category: blog
 #### With Guest Speaker: Mike Edwards, Digital and Brand Innovation Leader. 
 #### Priyanka talks to Mike Edwards, strategic advisor for eCommerce and retail technologies, and former CEO of eBags, Borders and Lucy Activewear. In 2011, after a failed turnaround he liquidated Borders. And in 2017, he sold eBags to Samsonite for $105mn. He’s also held other positions at retail behemoths like Staples and Target.
 
+<img src= "https://www.lebow.drexel.edu/sites/default/files/lb_event/1457627812-mikee7149.jpg" alt="" width="325px">
 
 #### Questions Mike answered
 - How can a brand differentiate itself and find its USP?
