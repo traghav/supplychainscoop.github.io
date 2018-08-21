@@ -5,8 +5,7 @@ layout: post
 date: 2018-08-21
 permalink: trends-in-retail
 image: "http://i1.sndcdn.com/avatars-000457590984-xbxok8-original.jpg"
-description: Priyanka talks to to Sucharita about surprising developments in retail over the years, how the
-role of the stores is changing, which technologies are transforming supply chain
+description: Priyanka talks to to Sucharita about surprising developments in retail over the years and how the role of the stores is changing
 headerImage: false
 tag:
 - supplychain
@@ -42,6 +41,6 @@ For more on this, listen on.
 
 Sucharita is Vice President and Principal Analyst at Forrester Research, and has been an analyst in the retail space since 2005. Safe to say, retail is now completely different to what it used to be when Sucharita started out. In huge part thanks to eCommerce! 
 
-<img src= "https://pbs.twimg.com/profile_images/66101023/Image-0018_400x400.png?" alt="suchitra" width="325px">
+<img src= "https://s23.a2zinc.net/clients/nrf/globaladmin/custom/photos/contact_1124.jpg" alt="suchitra" width="325px">
 
 
