@@ -29,7 +29,6 @@ category: blog
 - Who are the 2-3 leaders or innovators in the retail space that you look up to?
 
 
-
 For more on this, listen on.
 
 
