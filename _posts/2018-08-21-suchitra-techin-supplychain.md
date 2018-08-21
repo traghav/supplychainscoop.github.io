@@ -1,6 +1,6 @@
 ---
 title: "Episode 8: Sucharita Kodali Weighs in on the Biggest Retail Shifts and How a Brand Can Keep Up with
-Shifting Trends"
+Changing Trends"
 layout: post
 date: 2018-08-21
 permalink: trends-in-retail
