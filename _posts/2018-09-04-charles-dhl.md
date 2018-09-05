@@ -44,7 +44,7 @@ Charles has also travelled to 111 countries. To know which the 111th country is 
 
 Charles Brewer is CEO of DHL eCommerce, a division of Deutsche Post DHL Group, which he joined in 1984. In his role, he leads a global team responsible for developing solutions that enable the eCommerce sector.
 
-<img src= "https://mms.businesswire.com/media/20160617005063/en/530725/4/Charles_Brewer.jpg" alt="Charles_photograph" width="325px">
+<img src= "/assets/images/Charles.jpg" alt="lori" width="325px">
 
 
 Charles is a proven expert in supply chain, international shipping and e-commerce with over 32 years of industry experience, covering multiple global regions and disciplines across Europe, Asia Pacific, the Americas and Africa. 
